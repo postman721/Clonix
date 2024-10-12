@@ -53,6 +53,8 @@ After installing the dependencies, clone the repository or copy the code to your
 python3 clonix.py```
 ```
 
+<b> Notice since this is the first version of this game, some bugs might exist. Report them back if you find them. </b>
+
 ## License
 
 This project is licensed under the GNU General Public License v2.0. See the LICENSE file for more details.
