@@ -3,6 +3,8 @@
 ## Overview
 Clonix is a Tetris-like game built using the Pygame library. The game offers standard Tetris gameplay with customized visual assets, where you can rotate and move pieces (tetrominoes) to fill rows and score points. It features dynamic piece-dropping speed, a fading text effect for game-over messages, and support for custom block images.
 
+![clonix_start](https://github.com/user-attachments/assets/bb7a144f-dcbb-4846-b633-e0713852c85f)
+
 ## Features
 - Tetris-style gameplay with 7 distinct tetromino shapes (S, Z, I, O, J, L, T).
 - Increasing difficulty as the player progresses.
@@ -25,6 +27,11 @@ Clonix is a Tetris-like game built using the Pygame library. The game offers sta
 - **RIGHT ARROW**: Move piece to the right.
 - **DOWN ARROW**: Drop the piece faster.
 - **UP ARROW**: Rotate the piece clockwise.
+
+![clonix_start](https://github.com/user-attachments/assets/1a5de1d1-b435-4504-bd59-bb0dd93f9f2a)
+
+![game](https://github.com/user-attachments/assets/6fcea4c1-d778-4923-88c5-cbba0da9d121)
+
 
 ## Dependencies
 
