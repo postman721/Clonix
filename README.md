@@ -13,6 +13,8 @@ Clonix is a Tetris-like game built using the Pygame library. The game offers sta
 - Menu interface for starting a new game.
 - Play-again prompt after game over.
 - High score tracking.
+- Linux and Windows standalone binaries are available:
+      However these do not track high score the same way pure Python3 run does: Binaries are unable to form high score tracking file.
 
 ## How to Play
 1. Launch the game by running the script: `python3 clonix.py`.
