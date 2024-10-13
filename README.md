@@ -12,7 +12,7 @@ Clonix is a Tetris-like game built using the Pygame library. The game offers sta
 - Fade-out text effect when the player loses.
 - Menu interface for starting a new game.
 - Play-again prompt after game over.
-- High score tracking.
+- High score tracking. Via independent file on pure Python3 runs. File keeps track of the high score even when game ends. 
 - Linux and Windows standalone binaries are available:
       However these do not track high score the same way pure Python3 run does: Binaries are unable to form high score tracking file.
 
